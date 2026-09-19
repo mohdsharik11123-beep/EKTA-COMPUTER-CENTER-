@@ -1,0 +1,6 @@
+{
+  "name": "Ekta Computer Center",
+  "description": "Official website and admin management portal for Ekta Computer Center with course management, enquiries, notices, and Puter.js integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
